@@ -1,0 +1,33 @@
+.form1{
+    margin:0 auto;
+    height: 500px;
+    width: 250px;
+    background-color: cyan;
+    display: block;
+    border: 2px solid rgb(101, 252, 201);
+}
+.form input{
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    border: 3px solid aquamarine;
+    color: rgb(158, 158, 154);
+}
+.btn input{
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    border: 3px solid aquamarine;
+    color: black;
+    background-color: rgb(56, 221, 221);
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: block;
+    padding: 20px;
+    
+}
+body{
+    background-color: aquamarine;
+}

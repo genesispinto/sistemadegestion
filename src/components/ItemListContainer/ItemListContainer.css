@@ -1,0 +1,21 @@
+h1 {
+    text-align: left;
+}
+table {
+    margin: 100px;
+}
+thead {
+    background-color: aquamarine;
+}
+thead tr th {
+    padding: 20px;
+}
+.menu-active{
+    background-color: green;
+}
+.menu{
+    background-color: red;
+}
+tbody tr td {
+    padding-right: 43px;
+}
